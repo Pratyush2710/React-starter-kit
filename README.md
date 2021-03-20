@@ -10,3 +10,5 @@
 - npm install -D eslint eslint-config-prettier
 - "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
 - npm add --dev eslint-config-prettier
+- npm add --dev eslint-config-prettier
+- npm install -D parcel-bundler
