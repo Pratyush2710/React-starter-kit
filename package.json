@@ -7,11 +7,12 @@
   "devDependencies": {
     "eslint": "^7.22.0",
     "eslint-config-prettier": "^8.1.0",
-    "prettier": "^2.2.1"
+    "prettier": "^1.17.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "prettier \"src/**/*.{js,css,jsx,html}\" --write"
+    "format": "prettier \"src/**/*.{js,css,jsx,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
   },
   "keywords": [],
   "author": "",
