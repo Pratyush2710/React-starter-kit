@@ -7,3 +7,5 @@
 - prettier extension install
 - format on save check
 - require config--prettier check(only to run where projects is installed)
+- npm install -D eslint eslint-config-prettier
+- 
