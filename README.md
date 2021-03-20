@@ -1,2 +1,3 @@
-- /src/index.html
-- App.js
+--/src/index.html
+--App.js
+--bind app with index in script
