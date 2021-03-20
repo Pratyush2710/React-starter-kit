@@ -13,4 +13,5 @@
 - npm add --dev eslint-config-prettier
 - npm install -D parcel-bundler
 - npm install -D parcel-bundler
-- npm install react react-dom.
+- npm install react react-dom
+- npm install -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
